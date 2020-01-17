@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class Solution {
-    // DO NOT MODIFY THE LIST. IT IS READ ONLY
     public ArrayList<Integer> spiralOrder(final List<ArrayList<Integer>> A) {
        ArrayList<Integer> res = new ArrayList<Integer>();
        int m,n;
