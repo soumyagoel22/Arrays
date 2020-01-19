@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public ArrayList<ArrayList<Integer>> solve(int A) {
         int i,j,n,val;
