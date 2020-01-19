@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public ArrayList<Integer> getRow(int A) {
          int i,j,r,c,n,val;
