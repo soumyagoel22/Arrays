@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int coverPoints(ArrayList<Integer> A, ArrayList<Integer> B) {
        int n,m;
