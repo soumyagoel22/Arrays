@@ -1,4 +1,6 @@
- public class Solution {
+import java.util.*; 
+
+public class Solution {
     public ArrayList<Integer> plusOne(ArrayList<Integer> A) {
        int i,n;
        n=A.size();
