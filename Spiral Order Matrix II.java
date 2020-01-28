@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public ArrayList<ArrayList<Integer>> generateMatrix(int A) {
         ArrayList<ArrayList<Integer>> res = new ArrayList<>();
