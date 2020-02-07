@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public void nextPermutation(ArrayList<Integer> a) {
        int n=a.size();
