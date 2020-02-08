@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public boolean hotel(ArrayList<Integer> arrive, ArrayList<Integer> depart, int K) {
          Collections.sort(arrive);
