@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int maxArr(ArrayList<Integer> A) {
       int i,max1,max2,min1,min2,n;
