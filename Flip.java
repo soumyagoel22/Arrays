@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
      public ArrayList<Integer> flip(String A) {
         ArrayList<Integer> ans = new ArrayList<Integer>();
