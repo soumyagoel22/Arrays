@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int maxSpecialProduct(ArrayList<Integer> A) {
         int n = A.size();
